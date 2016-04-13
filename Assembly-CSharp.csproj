@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{91B95233-883B-DF0B-C384-ED40212A2C3A}</ProjectGuid>
+    <ProjectGuid>{0B52EDC6-1EDA-401B-B35D-8A75ED335FD8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -73,6 +73,7 @@
      <Compile Include="Assets\Scripts\utils\ModelSetting.cs" />
      <Compile Include="Assets\Scripts\utils\ModelSettingJson.cs" />
      <Compile Include="Assets\Scripts\utils\TouchManager.cs" />
+     <Compile Include="Assets\touchController.cs" />
      <None Include="Assets\Live2D\Resources\shader\Live2D-SetupMask.shader" />
      <None Include="Assets\Live2D\Resources\shader\merged\Live2D-AddCullMasked.shader" />
      <None Include="Assets\Live2D\Resources\shader\merged\Live2D-AddMasked.shader" />
@@ -93,7 +94,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Live2DUnity">
- <HintPath>C:/Users/Alice/Google Drive/Documents/Senior Year/TeamIf/FireEmblemAmie_2/Assets/Live2D/Live2DUnity.dll</HintPath>
+ <HintPath>C:/Users/Alice/Google Drive/Documents/Senior Year/TeamIf/fire-emblem-amie/Assets/Live2D/Live2DUnity.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D6266693-B3B9-68C4-8694-6FFF9D328A43}</ProjectGuid>
+    <ProjectGuid>{CA17C623-ABFC-4F05-DBF2-8022E0ED13CE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -85,7 +85,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
  <Reference Include="Live2DUnity">
- <HintPath>C:/Users/Alice/Google Drive/Documents/Senior Year/TeamIf/FireEmblemAmie_2/Assets/Live2D/Live2DUnity.dll</HintPath>
+ <HintPath>C:/Users/Alice/Google Drive/Documents/Senior Year/TeamIf/fire-emblem-amie/Assets/Live2D/Live2DUnity.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -102,7 +102,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{91B95233-883B-DF0B-C384-ED40212A2C3A}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{0B52EDC6-1EDA-401B-B35D-8A75ED335FD8}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
